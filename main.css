@@ -1,0 +1,200 @@
+body {
+    background-image: url(https://images.hdqwalls.com/download/purple-sky-tz-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+} 
+
+img {
+    background-position: center;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 64px;
+    border: darkblue; 
+    border-style: inset;
+    text-align: center;
+    text-shadow: darkblue;
+    padding: 50px;
+}
+h2 {
+    color: black;
+    font-size: 48px;
+    text-align:left
+}
+.comingSoon {
+    text-align: center;
+}
+
+nav {
+    border: solid darkblue 2px
+}
+.floatRight{float:right;margin-left:20px}
+
+.welmsg {
+    text-align: center;
+    font-size: larger;
+}
+.disciple {
+    text-align: center;
+}
+
+.links {
+    font-size: larger;
+    text-align: center;
+    border-width: 20%;
+    padding-right: 49%;
+}
+
+.goal {
+    font-size: x-large;
+    border: mediumblue;
+    background-color: #999292;
+    border-style: groove;
+    border-width: small;
+    width: 50%;
+    height: 70%;
+    padding-left: 10px;
+}
+
+.bscdesc {
+    font-size: x-large;
+    border: mediumblue;
+    background-color: #999292;
+    border-style: groove;
+    border-width: small;
+    width: 50%;
+    padding-left: 10px;
+}
+
+/* .about {
+    padding-top: 60px;
+    padding-bottom: 10%;
+} */
+
+.text-left-right {
+    text-align: right;
+    position: relative;
+}
+.left-text {
+    left: 14%;
+    position: absolute;
+}
+.byline {
+    right: 20%;
+    position: absolute;
+}
+
+.container {
+    font-size: x-large;
+    /* border: mediumblue;
+    border-style: groove;
+    border-width: small; */
+    width: 48%;
+    padding-top: 2%;
+}
+
+.left-col, .right-col {
+    border-style: groove;
+    border-color: teal;
+    background-color: #999292;
+    float: left;
+    margin-top: 20px;
+}
+
+/* .about {
+    border: mediumblue;
+    border-style:groove;
+} */
+
+.myAvatar {
+    float: top;
+
+}
+
+.about, .myAvatar {
+    display: inline;
+
+}
+
+.ava {
+    
+}
+
+iframe:focus {
+    outline: none;
+}
+
+iframe[seamless] {
+    display: block;
+}
+
+.phoenix {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -2%;
+    width: 80%;
+}
+
+.phoenix2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    width: 80%;
+}
+
+.bird {
+    display: block;
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.bird2 {
+    display: block;
+    float: middle;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48%;
+}
+
+.bird3 {
+    display: block;
+    float: middle;
+    margin-left: auto;
+    margin-right: auto;
+    height: 520px;
+    width: 45%;
+
+}
+
+.bird4 {
+    display: block;
+    float: middle;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48%;
+}
+
+
+/* .face {
+    display: unset;
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -2%;
+    max-width: 30%;
+    max-height: 30%;
+} */
+
+.tags {   
+    float: right;
+    font-size: xx-large;
+    margin-top: -4%;
+    margin-left: 50%;
+}
+
